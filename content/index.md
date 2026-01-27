@@ -8,7 +8,7 @@ title: Emberfall - A Conquest Survival Server
 **Webmap:** http://162.120.0.60:9101
 **Discord:** https://discord.gg/gmVbdB2YAM
 **Matrix:** 
-**Forum Post:** 
+**Forum Post:** [vintagestory.at](https://www.vintagestory.at/forums/topic/19467-emberfall-a-conquest-survival-server/)
 
 # Welcome to Emberfall
 
