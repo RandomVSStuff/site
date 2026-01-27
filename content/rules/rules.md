@@ -9,7 +9,8 @@ tags:
 2. No harassment of any religion, sex, gender, race, etc...
 3. No griefing unprotected builds
 4. No stealing
-5. No use of exploits of hacks.
+5. No RDM
+6. No use of exploits of hacks.
 
 _This page automatically lists all rules in this folder:_
 
