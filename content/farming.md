@@ -1,5 +1,0 @@
----
-title: Farming
-tags:
-  - draft
----
