@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Ember Light",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -25,19 +25,19 @@ const config: QuartzConfig = {
       typography: {
         header: "Uncial Antiqua",
         body: "Crimson Text",
-        code: "Source Code Pro",
+        code: "Jacquard 24",
       },
       colors: {
         lightMode: {
-          light: "#fafaf8",
-          lightgray: "#e8e4e0",
-          gray: "#5d5d5d",
-          darkgray: "#3d3d3d",
-          dark: "#1f1f1f",
-          secondary: "#654321",
-          tertiary: "#8b7355",
-          highlight: "rgba(139, 115, 85, 0.08)",
-          textHighlight: "rgba(255, 228, 181, 0.3)",
+          light: "#f4f1e8",
+          lightgray: "#d9d0c1",
+          gray: "#7a6f5d",
+          darkgray: "#5a4f3f",
+          dark: "#3a3025",
+          secondary: "#8b6239",
+          tertiary: "#a67c52",
+          highlight: "rgba(165, 124, 82, 0.12)",
+          textHighlight: "rgba(222, 184, 135, 0.35)",
         },
         darkMode: {
           light: "#2a2a2a",
