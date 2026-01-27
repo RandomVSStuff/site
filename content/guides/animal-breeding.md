@@ -1,5 +1,0 @@
----
-title: Breeding
-tags:
-  - draft
----
