@@ -5,6 +5,7 @@ title: Mods
 
 | Mod                 | Version |
 | ------------------- | ------- |
+| Auto Map Marker     | 4.0.3   |
 | BedSpawnV2          | 1.6.4   |
 | Chisel Tools        | 1.16.1  |
 | Conquest Blocklayer | 1.0.2   |
