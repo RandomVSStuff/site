@@ -7,6 +7,7 @@ title: Mods
 | ------------------- | ------- |
 | Auto Map Marker     | 4.0.3   |
 | BedSpawnV2          | 1.6.4   |
+| Carry On            | 1.21.0  |
 | Chisel Tools        | 1.16.1  |
 | Conquest Blocklayer | 1.0.2   |
 | Conquest Landform   | 1.0.2   |
@@ -17,3 +18,4 @@ title: Mods
 | Humans              | 0.3.8   |
 | Player List         | 2.3.7   |
 | Scaffolding         | 1.2.6   |
+| VS Roofing          | 1.2.1   |
