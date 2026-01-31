@@ -13,9 +13,11 @@ title: Mods
 | Conquest Landform   | 1.0.2   |
 | Conquest VS Edition | 1.0.3   |
 | Dana Tweaks         | 3.7.1   |
+| Farseer             | 1.3.3   |
 | Guilds              | 2.1.0   |
 | Healing Springs     | 1.1.12  |
 | Humans              | 0.3.8   |
 | Player List         | 2.3.7   |
 | Scaffolding         | 1.2.6   |
+| Stone Quarry        | 3.5.1   |
 | VS Roofing          | 1.2.1   |
